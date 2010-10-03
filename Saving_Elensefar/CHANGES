@@ -1,0 +1,76 @@
+Version 1.1, 7-11-07
+
+Last version maintained by Turin.
+
+
+Version 1.2, 03-07-08
+
+New maintainer: friar tuck
+
+Changes:
+
+* Show stopper wrt BfW 1.4 which would suppress sea battle on
+  interactive bigmap 
+  FIXED
+
+* Some updates to unit cfgs: magical weapon special for shadow mage,
+  default AMLA (with full healing), move type for ships to get rid of
+  annoying error message.
+
+* Black Galleon movable after restart of interactive bigmap.
+
+* Sunken enemy ships not being displayed.
+  FIXED
+
+Known issues:
+
+* Most custom stuff (terrain, units) is outdated. Some cfg issues have
+  been fixed (see above), but it all needs a complete overhaul. A lot
+  of things (Highwayman or Shadow Mage, for instance) are redundant
+  anyway, because they are Mainline or part of a mainline campaign in
+  the meantime.
+
+* A lot of things (names, items, attacks) are currently not displayed,
+  probably owing to outdated cfg syntax or changed locations for
+  graphics.
+
+
+Version 1.2.1, 07-07-08
+
+Changes:
+
+* Added new-style "translate" declaration.
+
+* Replaced outdated "music" declarations, music should be playing again.
+
+* fixed outdated "barrel" terrain
+
+------------------------------------------------------------------------------------
+###################################################################################
+-----------------------------------------------------------------------------------
+
+Version 1.3
+
+- campaign necromancy
+- update to bfw 1.8.4
+- get rid of duplicate images
+- set up ai behaviour
+- added income in big battles for ai
+- shadow mage/lord updated
+       ###############
+- recoded hight seas
+- set ai behaviou in siege of elensefar to fit siege scenario
+
+v1.3.2
+- fized an capture-village macro
+- added id to the campaign (...)
+- update to 1.9
+- switch sighted events to moveto's
+- update translation (german)
+
+TODO review terrain for 1.9 version
+
+***************
+
+
+
