@@ -10,7 +10,7 @@ New maintainer: friar tuck
 Changes:
 
 * Show stopper wrt BfW 1.4 which would suppress sea battle on
-  interactive bigmap 
+  interactive bigmap
   FIXED
 
 * Some updates to unit cfgs: magical weapon special for shadow mage,
@@ -62,15 +62,21 @@ Version 1.3
 - set ai behaviou in siege of elensefar to fit siege scenario
 
 v1.3.2
-- fized an capture-village macro
+- fixed an capture-village macro
 - added id to the campaign (...)
 - update to 1.9
 - switch sighted events to moveto's
 - update translation (german)
 
-TODO review terrain for 1.9 version
+v1.3.3
+- bugfixing, balancing
+- normalize sides
+- update to 1.9.4
+
+v1.3.4
+- corrected a glitch
+
+v1.3.5
+- added czech translation
 
 ***************
-
-
-
