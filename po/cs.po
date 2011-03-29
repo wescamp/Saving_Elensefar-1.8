@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-10-03 12:56+0200\n"
+"POT-Creation-Date: 2011-03-29 06:58+0200\n"
 "PO-Revision-Date: 2011-03-12 11:59+0100\n"
 "Last-Translator: VladimírSlávik <slavik.vladimir@nospam@seznam.cz>\n"
 "Language-Team: none\n"
@@ -2628,7 +2628,7 @@ msgid "We have unfinished business to attend to."
 msgstr "Máme tu něco, co musíme dokončit."
 
 #. [message]: id=The Explorer
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:654
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:660
 msgid ""
 "We only have enough provisions for $turnsleft weeks; we must reach the "
 "Western Lands in $gameleft weeks."
@@ -2637,7 +2637,7 @@ msgstr ""
 "do $gameleft týdnů."
 
 #. [message]: id=The Explorer
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:670
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:676
 msgid ""
 "Hurry, we are down to our last provisions! If we don't refill them within a "
 "week, we will all starve!"
@@ -2645,17 +2645,17 @@ msgstr ""
 "Už jsme na dně se zásobami! Pokud je do týdne nedoplníme, zahyneme hlady!"
 
 #. [message]: id=The Explorer
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:680
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:686
 msgid "We have ran out of provisions.... *urgh*"
 msgstr "Došly nám zásoby..."
 
 #. [message]: id=The Explorer
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:702
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:708
 msgid "We have failed reaching the Westlands in time."
 msgstr "Nedosáhli jsme Západní země včas."
 
 #. [message]: id=The Explorer
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:757
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:763
 msgid ""
 "There does not seem to be anyone living on this island... except, it seems, "
 "that black-cowled man on the far side..."
@@ -2665,7 +2665,7 @@ msgstr ""
 
 # stockade=ohrada, palisáda... druh opevnění
 #. [message]: id=The Explorer
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:767
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:773
 msgid ""
 "Last time I was here there was a trading colony, but it seems to be gone. "
 "Their old stockades should still be here, anyway."
@@ -2674,12 +2674,12 @@ msgstr ""
 "není. Její sklady by tu přesto měly být."
 
 #. [message]: id=The Explorer
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:777
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:783
 msgid "I think something is in the water..."
 msgstr "Myslím, že něco je ve vodě..."
 
 #. [message]: id=The Explorer
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:787
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:793
 msgid ""
 "Legend says Haldric landed here on his journey over, and that he fought "
 "something. Lets hope we don't have to fight whatever it was..."
@@ -2688,17 +2688,17 @@ msgstr ""
 "Doufejme, že s tím nebudeme muset bojovat, ať už to bylo cokoli... "
 
 #. [message]: id=The Explorer
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:801
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:807
 msgid "This island looks vaguely elvish."
 msgstr "Tento ostrov mi matně připomíná elfí zem."
 
 #. [message]: id=The Explorer
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:811
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:817
 msgid "Does anything live in this frozen wasteland?"
 msgstr "Žije v těchto zmrzlých krajích něco?"
 
 #. [message]: id=The Explorer
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:825
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:831
 msgid ""
 "I see signs of a Wesnothian outpost. Odd they would come so far south..."
 msgstr ""
@@ -2706,7 +2706,7 @@ msgstr ""
 "daleko na jih..."
 
 #. [message]: id=The Explorer
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:835
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:841
 msgid ""
 "Nagas were about a hundred years ago, in Haldric's time! I wonder if any "
 "remain..."
@@ -2715,7 +2715,7 @@ msgstr ""
 "kdyby nějaké žily doteď..."
 
 #. [message]: id=The Explorer
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:845
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:851
 msgid ""
 "This is old Clearwater Port! It was sacked by orcs long ago, I doubt there "
 "are any humans left."
@@ -2724,7 +2724,7 @@ msgstr ""
 "pochybuji, že tu zůstali nějací lidé."
 
 #. [message]: id=The Explorer
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:855
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:861
 msgid ""
 "(Black the Red) This is the land I was talking about. Land here, and we will "
 "get the warriors we need."
